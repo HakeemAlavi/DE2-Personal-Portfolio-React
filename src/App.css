@@ -328,6 +328,22 @@ p {
     background-color: #2eb19f;
 }
 
+.AdviceSlip {
+    text-align: center;
+}
+  
+.AdviceSlip h2 {
+    color: #3d9a8b;
+    font-size: 24px; 
+    margin-bottom: 10px; 
+}
+  
+.AdviceSlip p {
+    font-size: 18px;
+    color: #555;
+    margin-bottom: 130px; 
+}
+
 .bottom-nav-bar {
     background-color: #3d9a8b;
     position: relative;
