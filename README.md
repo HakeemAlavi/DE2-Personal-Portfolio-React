@@ -2,6 +2,9 @@
 My GitHub Pages Repository for React
 <br><br>
 [hakeemalavi.github.io/DE2-Personal-Portfolio-React](https://hakeemalavi.github.io/DE2-Personal-Portfolio-React/)
+### NB:
+
+The Vanilla HTML, CSS and JS alternative to this website can be found in the [DE2-Personal-Portfolio](https://github.com/HakeemAlavi/DE2-Personal-Portfolio) repository
 <br><br>
 ### Questions and Answers
 
