@@ -6,6 +6,8 @@ import Services from './components/Services';
 import About from './components/About';
 import Skills from './components/Skills';
 import Contact from './components/Contact';
+import ChuckNorrisJoke from './components/ChuckNorrisJoke';
+import AdviceSlip from './components/AdviceSlip';
 import Footer from './components/Footer';
 
 function App() {
@@ -17,6 +19,8 @@ function App() {
       <About />
       <Skills />
       <Contact />
+      {/* <ChuckNorrisJoke /> */}
+      <AdviceSlip/>
       <Footer />
     </div>
   );
